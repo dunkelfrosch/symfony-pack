@@ -87,5 +87,5 @@ questions:
     -
         question: 'True or False ? A lambda function is an named PHP function that can be stored in a variable.'
         answers:
-            - {value: "True",    correct: false}
-            - {value: "False",   correct: true}
+            - {value: "True",    correct: true}
+            - {value: "False",   correct: False}
